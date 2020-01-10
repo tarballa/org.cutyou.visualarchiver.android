@@ -56,3 +56,7 @@ Scope: 3.
 Create a decent front end to display payloads.  It works in the mental image I have of it, but basically imagine a caroseul photo viewer that displays MMS content
 in a text message recreator with mobile headers.  Display images and links with mini headless browsers (like http://m.fark.com) or Facebook link previews.
 This one will take the longest because I've never been known as a front-end designer, but 
+
+01/10/2020 @ 09:24 AM
+
+I realized I left that full of typos and litterally in the middle of a sentence about something or another.  I'll try to do updates regularly.  I'm using GitHub's Jira knock off for sprint planning.  I'm only going through the trouble of having an actual sprint just so future readers will be able to get a handle on the type of person I am.  All is good for now, I'M NOT TYPING IN CAPS OR ANYTHING!!!111
